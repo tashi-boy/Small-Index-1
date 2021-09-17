@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.aa{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.a{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+}
+/* .a4,.a5,
+.a6,.a7{
+    border: 2px solid white;
+} */
+
+.smin{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding: 12px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.h11{
+    font-size: 3rem;
+}
+/* .p01{
+
+} */
+
+.sin1{
+    font-family: fantasy;
+    padding: 12px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.i01{
+    margin: auto;
+    display: block;
+    padding: 12px;
+}
+.h20{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 30px;
+} 
+.i1{
+    width: 100%;
+    display: flex;
+}
+.i{
+    padding-right: 12px;
+}
+h3{
+    display: flex;
+    width: 100%;
+}
+
+.sin2{
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-family: cursive;
+    width: 100%;
+    height: 50%;
+} 
+/* header{
+    width: 50%;
+    float: left;
+    /* margin-top: 20px; */
+    /* margin-bottom: 100px; */
+    /* padding: 10px;
+    height: 300px; */
+/* } */ 
+.h12{
+    margin-bottom: 30px;
+}
+.box{
+    float: left;
+    width: 50%;
+    padding: 50px;
+}
+.hid1:after{
+    content: "";
+    display: table;
+    clear: both;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.fjkls{
+    padding: 12px;
+    margin-bottom: 10px;
+}
+.a01{
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(5, 201, 5));
+    padding: 12px;
+    border-radius: 12px;
+}
+.a02{
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 0, 0));
+    color: white;
+    padding: 12px;
+    border-radius: 12px;
+}
+.a01:hover{
+    background: linear-gradient(to right, rgb(5, 201, 5), white);
+    padding: 12px;
+    border-radius: 12px;
+}
+.a02:hover{
+    background: linear-gradient(to right, black, rgb(255, 255, 255));
+    color: white;
+    padding: 12px;
+    border-radius: 12px;
+}
+.a34{
+    padding: 12px;
+    margin-right: 30px;
+}
+.p03{
+    padding: 12px;
+    /* margin-top: 30px; */
+}
+
+footer{
+    background: linear-gradient(to top, rgb(255, 230, 0), orange);
+}
+.u1l{
+    display: flex;
+    list-style-type: none;
+    padding-top: 5px;
+}
+.a00{
+    padding: 12px;
+    color: black;
+    text-decoration: none;
+}
+.u2l{
+    float: right;
+}
