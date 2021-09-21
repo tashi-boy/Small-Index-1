@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/* body{
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-right: 20em;
+    margin-left: 20em;
+} */
+/* .firt box/class stylings */
+.firt{
+    background: white;
+    /* display: flex; */
+    /* padding: 12px; */
+    /* margin-bottom: 100px; */
+    margin-right: 20em;
+    margin-left: 20em;
+}
+.im1{
+   margin-top: 3px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 2px dotted black;
+    overflow: visible;
+}
+.a{
+    text-decoration: none;
+    color: black;
+    /* float: right; */
+}
+.aa{
+    padding-top: 15px;
+    float: right;
+    font-weight: bold;
+    word-spacing: 12px;
+}
+.a01{
+    /* background: rgb(187, 187, 187); */
+    /* padding: 100px; */
+    margin: 2px;
+    padding: 18px;
+}
+.a01:hover{
+    background: rgb(187, 187, 187);
+    text-decoration: none;
+}
+
+/* .fuls box/class stylings */
+.fuls{
+    background-color: rgb(0, 197, 197);
+    /* background-position: top; */
+}
+.fuly{
+    margin-top: 100px;
+    /* background-position: top; */
+    margin-right: 20em;
+    margin-left: 20em;
+    display: inline-block;
+    margin-bottom: 90px;
+    color: white;
+}
+.h40{
+    font-family: cursive;
+    font-weight: italic;
+    padding-bottom: 12px;
+}
+.h10{
+    font-size: 4em;
+    font-family: sans-serif;
+    font-weight: bolder;
+    padding: 5px;
+}
+/* .im2{ */
+    /* float: right;
+}
+.fuly{ */
+    /* float: right; */
+    /* width: 50%; */
+/* } */ 
+/* .coly:after{
+    content: "";
+    display: table;
+    clear: both;
+} */
+
+/* Score class/box stylings */
+.score {
+    margin-top: 70px;
+    /* width: 100%; */
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Segoe UI';
+}
+.bom {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    /* border-bottom: 3px solid rgb(202, 202, 202); */
+}
+.p-2{
+    padding: .5rem !important;
+}
+.h-1{
+    text-align: center;
+    font-size: 1.6em;
+    color: rgb(211, 0, 0);
+}
+/* .ma-lr{
+    margin-left: auto;
+    margin-right: auto;
+} */
+.ma-l{margin-left: auto;}
+.ma-r{margin-right: auto;}
+.bo1{border: 1px solid rgb(202, 202, 202);}
+.bo2{border: 1px solid rgb(202, 202, 202);}
+.bo3{border: 1px solid rgb(202, 202, 202);}
